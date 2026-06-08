@@ -219,7 +219,7 @@ with st.sidebar:
     st.markdown("---")
     st.markdown("**Project Info**")
     st.markdown("- 🎓 MCA Final Project")
-    st.markdown("- 🏫 Rsmt,Varanasi")
+    st.markdown("- 🏫 GBU,Greater Noida")
     st.markdown("- 🤖 ML Stack: sklearn")
     st.markdown("- 📦 Models: RF, GB, LR")
 
