@@ -1,10 +1,10 @@
-UPI Fraud Detection System
+## UPI Fraud Detection System
 MCA Final Year Project | GBU Noida | Semester 4
 
-Project Overview
+## Project Overview
 An AI/ML-powered system to detect fraudulent UPI transactions in real-time using machine learning algorithms including Random Forest, Gradient Boosting, and Logistic Regression.
 
-How to Run
+## How to Run
 
 Step 1 — Setup virtual environment
 ```bash
@@ -23,21 +23,21 @@ Step 3 — Run the app
 streamlit run app.py
 ```
 
-ML Models Used
+## ML Models Used
 | Model | Accuracy | AUC-ROC |
 |-------|----------|---------|
 | Random Forest | ~95% | ~0.98 |
 | Gradient Boosting | ~94% | ~0.97 |
 | Logistic Regression | ~88% | ~0.93 |
 
-Features
+## Features
 - Real-time fraud prediction
 - Interactive dashboard with charts
 - 3 ML models comparison
 - Dataset explorer with filters
 - Risk score gauge
 
-Input Features
+## Input Features
 - Transaction Amount
 - Hour of Transaction
 - Transaction Frequency
@@ -47,7 +47,7 @@ Input Features
 - Account Age
 - PIN Change Status
 
-Project Structure
+## Project Structure
 ```
 upi_fraud_detection/
 ├── app.py                 # Main Streamlit app
